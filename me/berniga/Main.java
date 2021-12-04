@@ -1,7 +1,7 @@
 package me.berniga;
 import java.util.Random;
 /**
- * @author : Christian Benriga
+ * @author : Christian Berniga
  * @class : 4 D
  * @created : 04/12/2021, sabato
  * @notes : cambiato metodo nella classe scaffale xche, essendo NUM_RIPIANI static final,
