@@ -28,7 +28,7 @@ public class Main {
                         int shelf= scan.nextInt();
                         System.out.println("  Type the position: ");
                         int position= scan.nextInt();
-                        scan.nextLine();        //se nn si mettesse il successico scan di CHOICHE prende la parte rimanente della linea dopo i 2 nextInt
+                        scan.nextLine();        //se nn si mettesse il successivo scan di CHOICE prende la parte rimanente della linea dopo i 2 nextInt
                         if(choice.equalsIgnoreCase("remove"))
                             s1.rimuoviLibro(shelf,position);
                         else
